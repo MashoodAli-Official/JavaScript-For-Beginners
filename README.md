@@ -30,3 +30,8 @@ This chapter covers the fundamental concepts of JavaScript. Below is a list of t
 <li>06 Methods</li>
 <li>07 Built In Methods</li>
 </ul>
+
+## Ch.02 Variables in JavaScript
+<ul>
+<li>01 Variables<li>
+</ul>
