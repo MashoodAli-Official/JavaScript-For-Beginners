@@ -32,6 +32,19 @@ This chapter covers the fundamental concepts of JavaScript. Below is a list of t
 </ul>
 
 ## Ch.02 Variables in JavaScript
+In this chapter, we'll explore variables - one of the most fundamental concepts in JavaScript. Variables are containers that store data values. You'll learn about different ways to declare variables using `var`, `let`, and `const`, understand variable scope, and learn best practices for naming and using variables in your JavaScript code.
 <ul>
-<li>01 Variables<li>
+<li>01 Variables</li>
+<li>02 Let Variables</li>
+<li>03 Const Variables</li>
+<li>04 Arithmetic Operator</li>
+<li>05 Assignment Operators</li>
+<li>06 String Concatenation</li>
+<li>07 String Interpolation</li>
+<li>08 Type Of Operator</li>
+</ul>
+
+## Simple practice projects
+<ul>
+<li>01 Kelvin To Fahrenheit Converter</li>
 </ul>
