@@ -44,7 +44,29 @@ In this chapter, we'll explore variables - one of the most fundamental concepts 
 <li>08 Type Of Operator</li>
 </ul>
 
+## Ch.03 Conditional Statements
+<ul>
+<li>01 If Statement</li>
+<li>02 If-Else Statement</li>
+<li>03 Comparison Operators</li>
+<li>04 Logical Operators</li>
+<li>05 Truthy and falsy operator</li>
+<li>06 Ternary operator</li>
+<li>07 If else if statement</li>
+</ul>
+
 ## Simple practice projects
 <ul>
 <li>01 Kelvin To Fahrenheit Converter</li>
 </ul>
+
+We’ll be covering the following concepts:
+
+    if, else if, and else statements
+    comparison operators
+    logical operators
+    truthy vs falsy values
+    ternary operators
+    Preview: Docs Loading link description
+    switch
+    statement
