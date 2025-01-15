@@ -44,7 +44,8 @@ In this chapter, we'll explore variables - one of the most fundamental concepts 
 <li>08 Type Of Operator</li>
 </ul>
 
-## Ch.03 Conditional Statements
+## Ch.03 Conditional Statements / Control Flow
+Control the flow of your JavaScript programs with conditional statements. Learn how to make decisions in code using if/else statements, comparison and logical operators, and switch statements.
 <ul>
 <li>01 If Statement</li>
 <li>02 If-Else Statement</li>
@@ -53,20 +54,10 @@ In this chapter, we'll explore variables - one of the most fundamental concepts 
 <li>05 Truthy and falsy operator</li>
 <li>06 Ternary operator</li>
 <li>07 If else if statement</li>
+<li>08 Switch Keyword Statement</li>
 </ul>
 
 ## Simple practice projects
 <ul>
 <li>01 Kelvin To Fahrenheit Converter</li>
 </ul>
-
-We’ll be covering the following concepts:
-
-    if, else if, and else statements
-    comparison operators
-    logical operators
-    truthy vs falsy values
-    ternary operators
-    Preview: Docs Loading link description
-    switch
-    statement
