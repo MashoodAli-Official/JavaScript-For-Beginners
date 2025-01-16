@@ -57,7 +57,14 @@ Control the flow of your JavaScript programs with conditional statements. Learn 
 <li>08 Switch Keyword Statement</li>
 </ul>
 
+## Ch.04 Functions
+<ul>
+<li>01 Function Declaration and Calling</li>
+</ul>
+
 ## Simple practice projects
 <ul>
 <li>01 Kelvin To Fahrenheit Converter</li>
+<li>02 Coin Flip Simulator</li>
+<li>03 Student Grade Checker</li>
 </ul>
