@@ -60,6 +60,12 @@ Control the flow of your JavaScript programs with conditional statements. Learn 
 ## Ch.04 Functions
 <ul>
 <li>01 Function Declaration and Calling</li>
+<li>02 Function Parameter and Argument</li>
+<li>03 Function Default Parameter</li>
+<li>04 Return keyword in Function</li>
+<li>05 Helper Function</li>
+<li>06 Anonymous Function</li>
+<li>07 Arrow Function</li>
 </ul>
 
 ## Simple practice projects
