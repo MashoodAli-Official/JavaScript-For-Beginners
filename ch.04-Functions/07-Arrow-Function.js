@@ -4,3 +4,9 @@ const studentInfo = (stuName, age, grades) =>{
     return `Name: ${stuName}, Age: ${age}, Grades: ${grades}`;
 };
 studentInfo("Harry Potter", 20, 90);
+
+const myName  = () =>{
+    console.log("My Name is Harry");
+    return;
+}
+myName();
