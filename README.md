@@ -73,4 +73,5 @@ Control the flow of your JavaScript programs with conditional statements. Learn 
 <li>01 Kelvin To Fahrenheit Converter</li>
 <li>02 Coin Flip Simulator</li>
 <li>03 Student Grade Checker</li>
+<li>04 Rock Paper Scissors</li>
 </ul>

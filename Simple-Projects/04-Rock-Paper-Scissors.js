@@ -1,3 +1,5 @@
+// In this simple project exercise we will use the the ARROW FUNCTION with IF-ELSE-IF statement.
+
 console.log('hi');
 const getUserChoice = (userInput) => {
   userInput = userInput.toLowerCase();
