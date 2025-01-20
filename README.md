@@ -58,6 +58,7 @@ Control the flow of your JavaScript programs with conditional statements. Learn 
 </ul>
 
 ## Ch.04 Functions
+Functions are reusable blocks of code that perform specific tasks. This chapter covers everything from basic function declarations to advanced concepts like higher-order functions. You'll learn how to create and call functions, work with parameters and arguments, use default parameters, understand the return keyword, create helper functions, work with anonymous and arrow functions, and explore higher-order functions that can take other functions as arguments or return them as values. By the end of this chapter, you'll have a solid foundation in JavaScript function concepts and patterns.
 <ul>
 <li>01 Function Declaration and Calling</li>
 <li>02 Function Parameter and Argument</li>
@@ -66,6 +67,15 @@ Control the flow of your JavaScript programs with conditional statements. Learn 
 <li>05 Helper Function</li>
 <li>06 Anonymous Function</li>
 <li>07 Arrow Function</li>
+<li>08 Refactor Arrow Function</li>
+<li>09 Higher Order Function</li>
+</ul>
+
+## Ch.05 Scope
+<ul>
+<li>01 Block And Scope</li>
+<li>02 Global Scope</li>
+<li></li>
 </ul>
 
 ## Simple practice projects
