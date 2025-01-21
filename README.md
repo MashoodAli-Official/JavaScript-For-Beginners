@@ -72,10 +72,12 @@ Functions are reusable blocks of code that perform specific tasks. This chapter 
 </ul>
 
 ## Ch.05 Scope
+In this chapter, we'll delve into the concept of scope, a fundamental aspect of programming that determines the accessibility and visibility of variables within a program.
 <ul>
 <li>01 Block And Scope</li>
 <li>02 Global Scope</li>
-<li></li>
+<li>03 Block Scope</li>
+<li>04 Scope Pollution</li>
 </ul>
 
 ## Simple practice projects
