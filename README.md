@@ -80,6 +80,25 @@ In this chapter, we'll delve into the concept of scope, a fundamental aspect of 
 <li>04 Scope Pollution</li>
 </ul>
 
+## Ch.06 Arrays
+Arrays are ordered collections that can store multiple values of any type. This chapter covers array fundamentals in JavaScript - from creating and accessing elements to manipulating array data using built-in methods. You'll learn array basics, element access/updates, variable declarations with arrays, key array properties/methods, and how to work with nested arrays.
+<ul>
+<li>01 Arrays Introduction</li>
+<li>02 Arrays Elements Accessing</li>
+<li>03 Update ARray Elements</li>
+<li>04 Let Const In Arrays</li>
+<li>05 Array Properties and Methods</li>
+<li>06 Nested Array</li>
+</ul>
+
+## Ch.07 Loops
+<ul>
+<li>01 Introduction to Loop</li>
+<li>02 For Loop</li>
+<li></li>
+<li></li>
+</ul>
+
 ## Simple practice projects
 <ul>
 <li>01 Kelvin To Fahrenheit Converter</li>
