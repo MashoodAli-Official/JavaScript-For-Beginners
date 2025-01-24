@@ -99,9 +99,13 @@ Arrays are ordered collections that can store multiple values of any type. This 
 <li>04 Loops in Arrays</li>
 <li>05 Nested Loops</li>
 <li>06 While Loop</li>
-<li></li>
-<li></li>
-<li></li>
+<li>07 Do While Loop</li>
+</ul>
+
+## Ch.08 High Order Function
+<ul>
+<li>01 Intro High order function</li>
+<li>02 Function as Data</li>
 </ul>
 
 ## Simple practice projects
