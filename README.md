@@ -95,6 +95,11 @@ Arrays are ordered collections that can store multiple values of any type. This 
 <ul>
 <li>01 Introduction to Loop</li>
 <li>02 For Loop</li>
+<li>03 Backward For Loop</li>
+<li>04 Loops in Arrays</li>
+<li>05 Nested Loops</li>
+<li>06 While Loop</li>
+<li></li>
 <li></li>
 <li></li>
 </ul>
