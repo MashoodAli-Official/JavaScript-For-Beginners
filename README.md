@@ -42,6 +42,7 @@ In this chapter, we'll explore variables - one of the most fundamental concepts 
 <li>06 String Concatenation</li>
 <li>07 String Interpolation</li>
 <li>08 Type Of Operator</li>
+<li>09 String Properties</li>
 </ul>
 
 ## Ch.03 Conditional Statements / Control Flow
@@ -92,6 +93,7 @@ Arrays are ordered collections that can store multiple values of any type. This 
 </ul>
 
 ## Ch.07 Loops
+Loops are fundamental programming constructs that allow you to execute a block of code repeatedly. This chapter covers different types of loops in JavaScript, including for loops, while loops, and do-while loops. You'll learn how to iterate over arrays, create nested loops, and control loop execution flow. Understanding loops is essential for efficient programming and working with data structures.
 <ul>
 <li>01 Introduction to Loop</li>
 <li>02 For Loop</li>
@@ -103,9 +105,20 @@ Arrays are ordered collections that can store multiple values of any type. This 
 </ul>
 
 ## Ch.08 High Order Function
+Higher-order functions are functions that can take other functions as parameters and/or return functions as output. This chapter explores the powerful concept of treating functions as first-class citizens in JavaScript - allowing functions to be assigned to variables, passed as arguments, and returned from other functions.
 <ul>
 <li>01 Intro High order function</li>
 <li>02 Function as Data</li>
+<li>03 Functions As Parameters</li>
+</ul>
+
+## Ch.09 Iterators
+<ul>
+<li>01 Introduction to Iterators</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 </ul>
 
 ## Simple practice projects
