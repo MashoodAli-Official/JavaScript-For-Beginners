@@ -128,3 +128,8 @@ Higher-order functions are functions that can take other functions as parameters
 <li>03 Student Grade Checker</li>
 <li>04 Rock Paper Scissors</li>
 </ul>
+
+## JavaScript Cheet Sheet
+<ul>
+<li>01 JavaScript Cheat sheet</li>
+</ul>
