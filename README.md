@@ -115,9 +115,10 @@ Higher-order functions are functions that can take other functions as parameters
 ## Ch.09 Iterators
 <ul>
 <li>01 Introduction to Iterators</li>
-<li></li>
-<li></li>
-<li></li>
+<li>02 For() Each Method</li>
+<li>03 Map() Method</li>
+<li>04 Filter() Method</li>
+<li>05 Find Index() Method</li>
 <li></li>
 </ul>
 
