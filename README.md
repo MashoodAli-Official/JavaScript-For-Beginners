@@ -113,12 +113,21 @@ Higher-order functions are functions that can take other functions as parameters
 </ul>
 
 ## Ch.09 Iterators
+Iterators are built-in array methods that make it easier to manipulate and transform data in arrays. This chapter covers essential iterator methods like forEach() for executing code on each element, map() for transforming elements, filter() for selecting elements that match criteria, and findIndex() for locating specific elements. These methods provide cleaner alternatives to traditional for loops when working with arrays.
 <ul>
 <li>01 Introduction to Iterators</li>
 <li>02 For() Each Method</li>
 <li>03 Map() Method</li>
 <li>04 Filter() Method</li>
 <li>05 Find Index() Method</li>
+<li></li>
+</ul>
+
+## Ch.10 Objects
+<ul>
+<li>01 Introducntion to Object</li>
+<li>02 Object literal declaration</li>
+<li>03 Accessing the Object Properties (using Dot & bracket notation)</li>
 <li></li>
 </ul>
 
@@ -133,4 +142,5 @@ Higher-order functions are functions that can take other functions as parameters
 ## JavaScript Cheet Sheet
 <ul>
 <li>01 JavaScript Cheat sheet</li>
+<li>02 Data Types in Javascript</li>
 </ul>
