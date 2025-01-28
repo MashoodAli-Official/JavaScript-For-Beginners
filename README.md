@@ -128,6 +128,9 @@ Iterators are built-in array methods that make it easier to manipulate and trans
 <li>01 Introducntion to Object</li>
 <li>02 Object literal declaration</li>
 <li>03 Accessing the Object Properties (using Dot & bracket notation)</li>
+<li>04 Property Assignment</li>
+<li>05 Object Methods</li>
+<li>06 Nested Object</li>
 <li></li>
 </ul>
 
