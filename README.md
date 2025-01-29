@@ -124,6 +124,7 @@ Iterators are built-in array methods that make it easier to manipulate and trans
 </ul>
 
 ## Ch.10 Objects
+In this chapter, you will learn about JavaScript objects, which are collections of key-value pairs. You will explore how to create objects using literal notation, access and modify their properties, and understand the difference between dot and bracket notation. Additionally, you will learn about object methods, nested objects, and how objects are passed by reference. Finally, you will discover how to loop through objects to access their properties and values.
 <ul>
 <li>01 Introducntion to Object</li>
 <li>02 Object literal declaration</li>
@@ -133,6 +134,15 @@ Iterators are built-in array methods that make it easier to manipulate and trans
 <li>06 Nested Object</li>
 <li>07 Object Pass by Reference</li>
 <li>08 Looping Through Object</li>
+</ul>
+
+## Ch.11 Advanced Object
+<ul>
+<li>01 Introduction to Advanced Object</li>
+<li>02 This keyword through Object</li>
+<li>03 Arrow Function and This keyword</li>
+<li>04 Privacy in Object Properties</li>
+<li></li>
 </ul>
 
 ## Simple practice projects
