@@ -141,8 +141,10 @@ In this chapter, you will learn about JavaScript objects, which are collections 
 <li>01 Introduction to Advanced Object</li>
 <li>02 This keyword through Object</li>
 <li>03 Arrow Function and This keyword</li>
-<li>04 Privacy in Object Properties</li>
-<li></li>
+<li>04 Getters Method</li>
+<li>05 Setters Method</li>
+<li>06 Factory Functions in Objects</li>
+<li>07 Property value shorthand in objects using factory function</li>
 </ul>
 
 ## Simple practice projects
