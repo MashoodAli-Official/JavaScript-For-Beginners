@@ -146,6 +146,7 @@ In this chapter, you will learn about JavaScript objects, which are collections 
 <li>06 Factory Functions in Objects</li>
 <li>07 Property value shorthand in objects using factory function</li>
 <li>08 Destructured Assignment</li>
+<li>09 Built-In Object Methods</li>
 </ul>
 
 ## Simple practice projects
