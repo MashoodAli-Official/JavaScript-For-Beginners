@@ -120,7 +120,6 @@ Iterators are built-in array methods that make it easier to manipulate and trans
 <li>03 Map() Method</li>
 <li>04 Filter() Method</li>
 <li>05 Find Index() Method</li>
-<li></li>
 </ul>
 
 ## Ch.10 Objects
@@ -148,6 +147,13 @@ This chapter delves into advanced concepts related to objects in programming, co
 <li>07 Property value shorthand in objects using factory function</li>
 <li>08 Destructured Assignment</li>
 <li>09 Built-In Object Methods</li>
+</ul>
+
+## Ch.12 Classes
+<ul>
+<li>01 Introduction to Classes</li>
+<li>02 Constructor in Classes</li>
+<li>03 Instance</li>
 </ul>
 
 ## Simple practice projects
