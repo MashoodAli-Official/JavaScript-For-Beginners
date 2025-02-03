@@ -137,6 +137,7 @@ In this chapter, you will learn about JavaScript objects, which are collections 
 </ul>
 
 ## Ch.11 Advanced Object
+This chapter delves into advanced concepts related to objects in programming, covering topics such as:
 <ul>
 <li>01 Introduction to Advanced Object</li>
 <li>02 This keyword through Object</li>
