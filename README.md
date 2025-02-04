@@ -154,6 +154,8 @@ This chapter delves into advanced concepts related to objects in programming, co
 <li>01 Introduction to Classes</li>
 <li>02 Constructor in Classes</li>
 <li>03 Instance</li>
+<li>04 Methods in Classes</li>
+<li>05 Inheritance in JavaScript</li>
 </ul>
 
 ## Simple practice projects
@@ -164,6 +166,7 @@ This chapter delves into advanced concepts related to objects in programming, co
 <li>04 Rock Paper Scissors</li>
 <li>05 Star Patterns Using Loops</li>
 <li>06 Meal Maker using Methods</li>
+<li>07 Static method in classes</li>
 </ul>
 
 ## JavaScript Cheet Sheet
