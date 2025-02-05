@@ -150,6 +150,7 @@ This chapter delves into advanced concepts related to objects in programming, co
 </ul>
 
 ## Ch.12 Classes
+In this chapter, we'll dive into the world of classes in JavaScript. You'll learn how to create and work with classes, including constructors, instances, methods, inheritance, and static methods. By the end of this chapter, you'll have a solid grasp of the basics of object-oriented programming in JavaScript, giving you the skills to build robust, reusable code.
 <ul>
 <li>01 Introduction to Classes</li>
 <li>02 Constructor in Classes</li>
@@ -157,6 +158,11 @@ This chapter delves into advanced concepts related to objects in programming, co
 <li>04 Methods in Classes</li>
 <li>05 Inheritance in JavaScript</li>
 <li>06 Static method in classes</li>
+</ul>
+
+## Ch.13 Modules
+<ul>
+<li>01 Basic Introduction to Modules</li>
 </ul>
 
 ## Simple practice projects
