@@ -163,6 +163,7 @@ In this chapter, we'll dive into the world of classes in JavaScript. You'll lear
 ## Ch.13 Modules
 <ul>
 <li>01 Basic Introduction to Modules</li>
+<li>Practice Modules Exercise</li>
 </ul>
 
 ## Simple practice projects
