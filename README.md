@@ -166,6 +166,11 @@ In this chapter, we'll dive into the world of classes in JavaScript. You'll lear
 <li>Practice Modules Exercise</li>
 </ul>
 
+## Ch.14 Promises
+<ul>
+<li>01 Introduction to Promises</li>
+</ul>
+
 ## Simple practice projects
 <ul>
 <li>01 Kelvin To Fahrenheit Converter</li>
