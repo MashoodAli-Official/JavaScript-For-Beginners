@@ -168,7 +168,8 @@ In this chapter, we'll dive into the world of classes in JavaScript. You'll lear
 
 ## Ch.14 Promises
 <ul>
-<li>01 Introduction to Promises</li>
+<li>01 Introduction to Asynchronous</li>
+<li>02 Introduction to Promises</li>
 </ul>
 
 ## Simple practice projects
