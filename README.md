@@ -174,6 +174,7 @@ In this chapter, we'll dive into the world of classes in JavaScript. You'll lear
 <li>04 Node Set Timeout Function</li>
 <li>05 Consuming Promises</li>
 <li>06 Catch with Promise</li>
+<li>07 Catching the Multiple Promises</li>
 </ul>
 
 ## Simple practice projects
