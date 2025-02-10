@@ -172,6 +172,7 @@ In this chapter, we'll dive into the world of classes in JavaScript. You'll lear
 <li>02 Introduction to Promises</li>
 <li>03 Constructing an Promise Object</li>
 <li>04 Node Set Timeout Function</li>
+<li>05 Consuming Promises</li>
 </ul>
 
 ## Simple practice projects
