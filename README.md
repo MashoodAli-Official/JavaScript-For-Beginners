@@ -181,6 +181,12 @@ Promises in JavaScript simplify handling asynchronous operations like API calls 
 <li>09 Promises cheatsheet</li>
 </ul>
 
+## 14 Async Await
+<ul>
+<li>01 Introduction to Async-Await</li>
+<li>02 Async Keyword</li>
+</ul>
+
 ## Simple practice projects
 <ul>
 <li>01 Kelvin To Fahrenheit Converter</li>
@@ -190,7 +196,6 @@ Promises in JavaScript simplify handling asynchronous operations like API calls 
 <li>05 Star Patterns Using Loops</li>
 <li>06 Meal Maker using Methods</li>
 <li>07 Media Library using Classes</li>
-<li>09 Using Promise.all()</li>
 </ul>
 
 ## JavaScript Cheet Sheet
