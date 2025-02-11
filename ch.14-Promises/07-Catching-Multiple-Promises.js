@@ -3,7 +3,7 @@
 
 // First promise with setTimeout function
 const promise1 = new Promise((resolve, reject) => {
-  setTimeout(() => reject('Error from promise 1'), 1000);
+  setTimeout(() => reject('Error from promise 1'), 1000); // Change the value of setTimeout to see the different result
 });
 
 // Second promise with setTimeout function

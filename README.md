@@ -161,12 +161,14 @@ In this chapter, we'll dive into the world of classes in JavaScript. You'll lear
 </ul>
 
 ## Ch.13 Modules
+Modules in JavaScript allow you to organize code into reusable, self-contained files. They encapsulate functionality, avoid global namespace pollution, and promote maintainability. Using import and export, modules enable code reuse and better structure, essential for modern development in frameworks like React, Angular, and Node.js.
 <ul>
 <li>01 Basic Introduction to Modules</li>
-<li>Practice Modules Exercise</li>
+<li>02 Practice Modules Exercise</li>
 </ul>
 
 ## Ch.14 Promises
+Promises in JavaScript simplify handling asynchronous operations like API calls or timers, replacing the complexity of callbacks. A Promise represents the eventual success or failure of an async task, making code more readable and maintainable. This chapter covers creating, consuming, and chaining Promises, along with advanced techniques like handling multiple promises with Promise.all(). Learn how to write clean, efficient async code with Promises.
 <ul>
 <li>01 Introduction to Asynchronous</li>
 <li>02 Introduction to Promises</li>
@@ -175,6 +177,8 @@ In this chapter, we'll dive into the world of classes in JavaScript. You'll lear
 <li>05 Consuming Promises</li>
 <li>06 Catch with Promise</li>
 <li>07 Catching the Multiple Promises</li>
+<li>08 Using Promise.all() function</li>
+<li>09 Promises cheatsheet</li>
 </ul>
 
 ## Simple practice projects
@@ -186,10 +190,12 @@ In this chapter, we'll dive into the world of classes in JavaScript. You'll lear
 <li>05 Star Patterns Using Loops</li>
 <li>06 Meal Maker using Methods</li>
 <li>07 Media Library using Classes</li>
+<li>09 Using Promise.all()</li>
 </ul>
 
 ## JavaScript Cheet Sheet
 <ul>
 <li>01 JavaScript Cheat sheet</li>
 <li>02 Data Types in Javascript</li>
+<li>03 Promises cheatsheet</li>
 </ul>
