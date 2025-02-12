@@ -186,6 +186,7 @@ Promises in JavaScript simplify handling asynchronous operations like API calls 
 <li>01 Introduction to Async-Await</li>
 <li>02 Async Keyword</li>
 <li>03 Await operator</li>
+<li>04 Writing Async function</li>
 </ul>
 
 ## Simple practice projects
