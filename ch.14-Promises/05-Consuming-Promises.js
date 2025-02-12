@@ -13,7 +13,7 @@ const promise1 = new Promise((resolve, reject) => {
     }
 });
 
-// Handle both success and error cases
+// Here we are consuming the promise using .then() and .catch() methods
 promise1
     .then((result) => {
         console.log(result);
