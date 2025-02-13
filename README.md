@@ -204,8 +204,8 @@ Async/Await is a modern JavaScript syntax that makes working with asynchronous c
 <li>03 Student Grade Checker</li>
 <li>04 Rock Paper Scissors</li>
 <li>05 Star Patterns Using Loops</li>
-<li>06 Meal Maker using Methods</li>
-<li>07 Media Library using Classes</li>
+<li>06 Media Library using Classes</li>
+<li>07 Simple GET request using Fetch API</li>
 </ul>
 
 ## JavaScript Cheet Sheet
