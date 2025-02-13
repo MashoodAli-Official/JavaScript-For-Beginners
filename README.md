@@ -181,13 +181,20 @@ Promises in JavaScript simplify handling asynchronous operations like API calls 
 <li>09 Promises cheatsheet</li>
 </ul>
 
-## 14 Async Await
+## 15 Async Await
+Async/Await is a modern JavaScript syntax that makes working with asynchronous code more intuitive and readable. It builds on Promises to provide a cleaner way to handle asynchronous operations. This chapter covers the fundamentals of async/await, including the async keyword for declaring asynchronous functions, the await operator for pausing execution until Promises resolve, proper error handling with try/catch blocks, and managing multiple Promises concurrently with Promise.all(). By the end of this chapter, you'll be able to write asynchronous code that looks and behaves more like synchronous code.
 <ul>
 <li>01 Introduction to Async-Await</li>
 <li>02 Async Keyword</li>
 <li>03 Await operator</li>
 <li>04 Writing Async function</li>
 <li>05 Await Promise.all()</li>
+</ul>
+
+## 16 API Request in JavaScript
+<ul>
+<li>01 Introduction to Requests with ES6 JavaScript</li>
+<li>02 Introduction to Request with Fetch API</li>
 </ul>
 
 ## Simple practice projects
