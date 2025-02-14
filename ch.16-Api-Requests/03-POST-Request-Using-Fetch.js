@@ -19,4 +19,5 @@ fetch('https://reqres.in/api/users', {
 // Logging the response data to console
 .then(data => console.log(data))
 // Handling any errors that occur during the request
-.catch(error => console.log('ERROR'))
+.catch(error => console.log('ERROR', error))
+
