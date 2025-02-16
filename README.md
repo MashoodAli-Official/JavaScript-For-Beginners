@@ -200,6 +200,11 @@ Async/Await is a modern JavaScript syntax that makes working with asynchronous c
 <li>05 GET request, Async and Await with Fetch API</li>
 </ul>
 
+## 17 Debugging in JavaScript
+<ul>
+<li>01 Error Stack Trace</li>
+</ul>
+
 ## Simple practice projects
 <ul>
 <li>01 Kelvin To Fahrenheit Converter</li>
