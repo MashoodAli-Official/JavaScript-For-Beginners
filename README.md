@@ -192,12 +192,13 @@ Async/Await is a modern JavaScript syntax that makes working with asynchronous c
 </ul>
 
 ## 16 API Request in JavaScript
+This chapter covers making HTTP requests in modern JavaScript using the Fetch API. You'll learn how to interact with web services and APIs through GET and POST requests, both using Promise-based syntax and the more modern async/await approach. The chapter demonstrates practical examples of retrieving data from servers and sending data to them.
 <ul>
 <li>01 Introduction to Requests with ES6 JavaScript</li>
 <li>02 GET Request using fetch</li>
 <li>03 POST Request using fetch</li>
 <li>04 GET Async await using fetch<li>
-<li>05 GET request, Async and Await with Fetch API</li>
+<li>05 POST request, Async and Await with Fetch API</li>
 </ul>
 
 ## 17 Debugging in JavaScript
