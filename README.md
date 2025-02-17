@@ -204,6 +204,7 @@ This chapter covers making HTTP requests in modern JavaScript using the Fetch AP
 ## 17 Debugging in JavaScript
 <ul>
 <li>01 Error Stack Trace</li>
+<li>02 JavaScript error types</li>
 </ul>
 
 ## Simple practice projects
