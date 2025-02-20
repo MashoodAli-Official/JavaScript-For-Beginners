@@ -207,6 +207,12 @@ This chapter covers making HTTP requests in modern JavaScript using the Fetch AP
 <li>02 JavaScript error types</li>
 </ul>
 
+## 18 Error Handling in JavaScript
+<ul>
+<li>01 Runtime Error Handling</li>
+<li>02 Constructing an Error</li>
+</ul>
+
 ## Simple practice projects
 <ul>
 <li>01 Kelvin To Fahrenheit Converter</li>
