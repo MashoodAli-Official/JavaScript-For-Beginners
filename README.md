@@ -211,6 +211,8 @@ This chapter covers making HTTP requests in modern JavaScript using the Fetch AP
 <ul>
 <li>01 Runtime Error Handling</li>
 <li>02 Constructing an Error</li>
+<li>03 Throw keyword in JavaScript</li>
+<li>04 Try Catch Error Statement</li>
 </ul>
 
 ## Simple practice projects
