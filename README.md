@@ -202,17 +202,27 @@ This chapter covers making HTTP requests in modern JavaScript using the Fetch AP
 </ul>
 
 ## 17 Debugging in JavaScript
+Debugging in JavaScript can be a daunting task, but with the right tools and techniques, you can quickly identify and fix errors in your code. In this chapter, we'll take a closer look at how to read error stack traces and understand the different types of JavaScript errors, giving you the skills you need to tackle even the toughest debugging challenges.
 <ul>
 <li>01 Error Stack Trace</li>
 <li>02 JavaScript error types</li>
 </ul>
 
 ## 18 Error Handling in JavaScript
+Learn how to handle errors in JavaScript, including runtime error handling, constructing custom errors, using the throw keyword, and working with try-catch statements to write more robust and reliable code.
 <ul>
 <li>01 Runtime Error Handling</li>
 <li>02 Constructing an Error</li>
 <li>03 Throw keyword in JavaScript</li>
 <li>04 Try Catch Error Statement</li>
+</ul>
+
+## 19 Hoisting in JavaScript
+Hoisting affects how variables are scoped and executed in JavaScript. This chapter explores its mechanics and differences between var, let, and const declarations, helping you write more predictable and maintainable code.
+<ul>
+<li>01 Introduction to Hoisting</li>
+<li>02 Var Hoisting</li>
+<li>03 Let and Const Hoisting</li>
 </ul>
 
 ## Simple practice projects
