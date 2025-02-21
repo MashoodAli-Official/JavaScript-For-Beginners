@@ -225,6 +225,21 @@ Hoisting affects how variables are scoped and executed in JavaScript. This chapt
 <li>03 Let and Const Hoisting</li>
 </ul>
 
+## 20 JavaScript ES6+ Features
+<ul>
+<li>01 Template Literals</li>
+<li>02 Destructuring</li>
+<li>03 Spread and Rest Operators</li>
+<li>04 Default Parameters</li>
+<li>05 Arrow Functions</li>
+<li>06 Classes and Inheritance</li>
+<li>07 Modules (ES6)</li>
+<li>08 Promises and Async/Await</li>
+<li>09 New Data Structures (e.g., Map, Set)</li>
+<li>10 Array and Object Methods (e.g., Array.from, Object.assign, Object.entries)</li>
+<li>11 String and Number Methods (e.g., String.prototype.includes, Number.isNaN)</li>
+</ul>
+
 ## Simple practice projects
 <ul>
 <li>01 Kelvin To Fahrenheit Converter</li>
