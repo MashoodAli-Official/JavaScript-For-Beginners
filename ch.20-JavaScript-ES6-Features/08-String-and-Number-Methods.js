@@ -14,19 +14,19 @@ let slice3 = text.slice(-5);        // Returns "World" (counts from the end)
 let substring = text.substring(0, 5);  // Returns "Hello"
 
 // 4. String replace() - replaces a specified value with another value
-let newText = text.replace("World", "JavaScript");  // Returns "Hello JavaScript"
+let newText = text.replace("Harry ", "Potter");  // Returns "Hello JavaScript"
 
 // 5. String toUpperCase() and toLowerCase()
 let upper = text.toUpperCase();  // Returns "HELLO WORLD"
 let lower = text.toLowerCase();  // Returns "hello world"
 
 // 6. String concat() - joins two or more strings
-let firstName = "John";
-let lastName = "Doe";
+let firstName = "Harry";
+let lastName = "Potter";
 let fullName = firstName.concat(" ", lastName);  // Returns "John Doe"
 
 // 7. String trim() - removes whitespace from both sides
-let untrimmed = "   Hello World   ";
+let untrimmed = "   Hello Universe   ";
 let trimmed = untrimmed.trim();  // Returns "Hello World"
 
 // 8. String charAt() - returns the character at a specified index
