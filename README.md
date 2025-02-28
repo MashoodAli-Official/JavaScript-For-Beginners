@@ -235,6 +235,8 @@ Hoisting affects how variables are scoped and executed in JavaScript. This chapt
 <li>06 Classes and Inheritance</li>
 <li>07 Promises and Async/Await</li>
 <li>08 String and Number Methods</li>
+<li>09 Array and Object Methods</li>
+<li>10 Closures</li>
 </ul>
 
 ## Simple practice projects
