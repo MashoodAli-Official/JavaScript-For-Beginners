@@ -226,6 +226,7 @@ Hoisting affects how variables are scoped and executed in JavaScript. This chapt
 </ul>
 
 ## 20 JavaScript ES6+ Features
+Discover the power of JavaScript ES6+ features and take your development skills to the next level. This book covers 20 essential features, from template literals to async/await, providing a comprehensive guide to writing modern, efficient, and maintainable code.
 <ul>
 <li>01 Template Literals</li>
 <li>02 Destructuring</li>
