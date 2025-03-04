@@ -238,6 +238,7 @@ Discover the power of JavaScript ES6+ features and take your development skills 
 <li>08 String and Number Methods</li>
 <li>09 Array and Object Methods</li>
 <li>10 Closures</li>
+<li>11 Currying</li>
 </ul>
 
 ## Simple practice projects
