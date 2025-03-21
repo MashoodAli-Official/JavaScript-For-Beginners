@@ -250,6 +250,7 @@ Discover the power of JavaScript ES6+ features and take your development skills 
 <li>05 Star Patterns Using Loops</li>
 <li>06 Media Library using Classes</li>
 <li>07 Simple GET request using Fetch API</li>
+<li>08 Simple POST request using Fetch API</li>
 </ul>
 
 ## JavaScript Cheet Sheet
